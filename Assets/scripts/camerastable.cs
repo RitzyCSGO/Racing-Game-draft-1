@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraStable : MonoBehaviour
+public class camerastable : MonoBehaviour
 {
 
     public GameObject TheCar;
